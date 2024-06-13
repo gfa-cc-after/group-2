@@ -3,11 +3,11 @@ package main.java.com.greenfoxacademy;
 public class Main {
     public static void main(String[] args) {
 
-        greet();
+        cheer();
 
     }
 
-    public static void greet() {
+    public static void cheer() {
         System.out.println("Carlos");
     }
 }
