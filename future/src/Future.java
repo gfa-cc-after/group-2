@@ -1,5 +1,7 @@
 public class Future {
+    public static String sign;
     public static void main(String[] args) {
-        System.out.println("Leo");
+        sign = "Leo";
+        System.out.println(sign);
     }
 }
