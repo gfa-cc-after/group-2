@@ -3,11 +3,11 @@ package main.java.com.greenfoxacademy;
 public class Main {
     public static void main(String[] args) {
 
-        cheer("Hungarian");
+        cheer("Hungarian", "Carlos");
 
     }
 
-    public static void cheer(String language) {
-        System.out.println(language);
+    public static void cheer(String language, String name) {
+        System.out.println(language + " " + name);
     }
 }
