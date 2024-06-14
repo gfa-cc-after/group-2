@@ -6,6 +6,6 @@ public class Count {
     }
 
     private static void count(int number) {
-        System.out.println("The month I was born in: " + number);
+        System.out.println("Counting the countless " + number);
     }
 }
